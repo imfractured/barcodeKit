@@ -1,2 +1,3 @@
-# barcodeKit
-barcode parsing
+# BarcodeKit
+
+A description of this package.
